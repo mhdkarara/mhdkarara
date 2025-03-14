@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/mhdkarara"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=mhdkra&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=mhdkarara&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
@@ -26,9 +26,9 @@ I am a iOS Developer from Indonesia.
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mhdkra&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mhdkarara&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdkra&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdkarara&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
